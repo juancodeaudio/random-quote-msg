@@ -1,0 +1,24 @@
+{
+  "name": "random-quote-msg",
+  "version": "1.0.0",
+  "description": "Random Quotes Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancodeaudio/random-quote-msg.git"
+  },
+  "keywords": [],
+  "author": "Juan P Alvarado Vallejo <alvaradovallejo.juan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancodeaudio/random-quote-msg/issues"
+  },
+  "homepage": "https://github.com/juancodeaudio/random-quote-msg#readme",
+  "bin": {
+    "random-quote-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
